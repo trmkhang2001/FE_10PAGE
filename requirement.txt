@@ -1,0 +1,22 @@
+1.Trang đăng ký //
+2.Trang đăng nhập //
+3.Trang chủ //
+- Phải có danh sách sản phẩm mới nhất
+- Phải có danh sách sản phẩm bán chạy nhất
+4.Trang tìm kiếm sản phẩm (lọc sản phẩm) //
+- Phải có sidebar hiển thị danh sách danh mục sản phẩm. Ấn vào danh mục sẽ hiển thị danh sách sản phẩm tương ứng.
+5.Trang chi tiết sản phẩm //
+- Phải có nút Thêm vào giỏ hàng. Ấn nút thì icon giỏ hàng ở header sẽ tăng thêm số lượng.
+- Phải có nút Mua ngay. Ấn nút thì hệ thống sẽ chuyển đến trang xác nhận đơn hàng.
+6.Trang chi tiết giỏ hàng//
+- Hiển thị danh sách sản phẩm đã thêm vào giỏ hàng
+7.Trang xác nhận đơn hàng//
+- Hiển thị danh sách sản phẩm sẽ mua
+- Hiển thị form điền thông tin người mua
+- Nút Xác nhận đơn hàng
+8.Trang quản lý danh mục sản phẩm (Admin)//
+- Bao gồm: Danh sách, Thêm, Sửa, Xóa
+9.Trang quản lý sản phẩm (Admin)//
+- Bao gồm: Danh sách, Thêm, Sửa, Xóa, Chi tiết
+10.Trang quản lý đơn hàng (Admin)//
+- Bao gồm: Danh sách, Chi tiết, Sửa
